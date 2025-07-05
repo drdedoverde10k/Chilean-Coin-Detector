@@ -83,7 +83,7 @@ ratio =  predicted/real
 
 ## Installation
 ```bash
-git clone https://github.com/drdedoverde10k/Chilean-Coin-Detector.git
+git clone https://github.com/fespinozav/Chilean-Coin-Detector.git
 python -m venv .venv
 source .venv/bin/activate
 ```
