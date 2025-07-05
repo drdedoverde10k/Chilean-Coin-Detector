@@ -83,8 +83,7 @@ ratio =  predicted/real
 
 ## Installation
 ```bash
-git clone https://github.com/drdedoverde10k/DIASMA2024.git
-cd "DIASMA2024/COMPUTER VISION"
+git clone https://github.com/drdedoverde10k/Chilean-Coin-Detector.git
 python -m venv .venv
 source .venv/bin/activate
 ```
